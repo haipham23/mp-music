@@ -1,0 +1,21 @@
+{
+  "name": "mp-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chat-ms": "^1.1.1",
+    "chat-rp": "^2.0.0",
+    "dotenv": "^5.0.0",
+    "prismic.io": "^3.6.1",
+    "redis": "^2.8.0"
+  }
+}
